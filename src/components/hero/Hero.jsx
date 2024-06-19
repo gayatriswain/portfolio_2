@@ -86,7 +86,7 @@ My commitment to continuous learning drives me to create impactful and scalable 
         Welcome to my Portfolio
       </motion.div>
       <div className="imageContainer">
-        <img src="/public/Untitled_design-removebg-preview.png" alt="" />
+        <img src="/Untitled_design-removebg-preview.png" alt="" />
       </div>
     </div>
   );

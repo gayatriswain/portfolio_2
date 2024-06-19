@@ -6,28 +6,28 @@ const items = [
   {
     id: 1,
     title: "React Commerce Website",
-    img: "/public/Screenshot 2024-06-10 214155.png",
+    img: "/Screenshot 2024-06-10 214155.png",
     desc: "Our Symptom-Based Disease Diagnosis Web App leverages machine learning and healthcare data to provide quick and user-centric insights into health conditions, enhancing accessibility to healthcare information.",
     demoLink: "https://github.com/gayatriswain/Medicine-Recommendation-System"
   },
   {
     id: 2,
     title: "React Commerce Website",
-    img: "/public/Screenshot 2024-06-03 220924.png",
+    img: "/Screenshot 2024-06-03 220924.png",
     desc: "This project is a comprehensive eCommerce website developed using Firebase, showcasing a complete suite of online shopping functionalities. It integrates modern web development techniques with a powerful backend service, providing a seamless and secure user experience.",
     demoLink: "https://github.com/gayatriswain/E_Commerce"
   },
   {
     id: 3,
     title: "Weather Web App",
-    img: "/public/Screenshot 2024-05-29 000843.png",
+    img: "/Screenshot 2024-05-29 000843.png",
     desc: "Created a dynamic weather web application that provides real-time weather updates for users. Utilized APIs to fetch and display accurate weather data, offering users convenient access to forecasts and conditions for their location and beyond.",
     demoLink: "https://hawaayein-gayatriswain.netlify.app/"
   },
   {
     id: 4,
     title: "Sudoku Game",
-    img: "/public/Screenshot 2024-05-29 000157.png",
+    img: "/Screenshot 2024-05-29 000157.png",
     desc: "Developed a Sudoku game application, implementing classic gameplay mechanics within a user-friendly interface. Designed to challenge logical thinking and problem-solving skills, providing an engaging experience for players of all levels.",
     demoLink: "https://gayatriswain.github.io/sudoku-game/"
   },
