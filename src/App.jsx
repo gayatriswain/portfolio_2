@@ -1,7 +1,7 @@
 
 import "./app.scss";
 
-import Navbar from "./components/Navbar/navbar";
+import Navbar from "./components/navbar/Navbar";
 import Hero from "./components/hero/Hero";
 import Parallax from "./components/parallax/Parallax";
 import Skills from "./components/Skills";
