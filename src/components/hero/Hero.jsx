@@ -47,7 +47,7 @@ const Hero = () => {
           initial="initial"
           animate="animate"
         >
-          <a href="/public/24342_Gayatri Swain (2).pdf" target="blank">
+          <a href="/Gayatri_Swain_cv.pdf" target="blank">
           <button className="button">resume</button>
           </a>
           <motion.h2 variants={textVariants}>Gayatri Swain</motion.h2>
